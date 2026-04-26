@@ -1,8 +1,0 @@
-The python programming is the combination of the interperter and compiler language. Let’s execute the 
-simple program and see the output. The file that needs to be executed should have a .py extension
-
-x = 10
-y = 20
-print(x+y)
-
-The output should be 30.new line
