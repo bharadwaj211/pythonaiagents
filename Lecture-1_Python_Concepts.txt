@@ -1,1 +1,2 @@
-Execution notes : Today we are going to learn python concepts.
+Execution notes : Today we are going to learn python concepts. Let's learn more about compliler and
+interperter on how it works in python.
